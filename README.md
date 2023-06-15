@@ -33,7 +33,6 @@ predictedco2=regr.predict([[3000,1200]])
 print("Predicted co2 for the coressponding weight and volume ",predictedco2)
 ```
 ## Output:
-### Insert your output
-![Screenshot 2023-06-08 222356](https://github.com/AnandhamoorthyKarthikeyan/Multivariate-Linear-Regression/assets/119475998/976f4245-abfb-4da3-a5a0-61c32c5ae2e0)
+![image](https://github.com/AnandhamoorthyKarthikeyan/Multivariate-Linear-Regression/assets/119475998/8e5ff860-caad-4e43-8963-30a8bf2957d2)
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
